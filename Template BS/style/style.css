@@ -1,0 +1,35 @@
+@import "header.css";
+@import "footer.css";
+@import "texte.css";
+@import "slider.css";
+
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+#main-content {
+	margin-right: 0px !important;
+}
+
+#contenu {
+	background-color: white;
+	text-align: center;
+}
+
+.regle {
+	display: none;
+}
+
+.enabled {
+	display: block;
+}
+
+.disabled {
+	display: none;
+}
+
+#intro {
+	padding-top: 10px;
+	background-color: #F0F5F4;
+}

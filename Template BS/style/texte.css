@@ -1,0 +1,14 @@
+#textintro {
+	padding: 15px;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	text-align: justify;
+}
+
+#nota {
+	font-size: 14px;
+	padding: 10px;
+	font-family: 'Lato', sans-serif;
+	text-align: justify;
+	color: #006B56;
+}

@@ -1,0 +1,60 @@
+/* Démonstration 1 */
+
+.ex {
+	height: 50px;
+	background-color: green;
+	width: 33%;
+	float:left;
+	text-align: center;
+}
+.ex1 {
+	height: 50px;
+	background-color: red;
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+.ex2 {
+	height: 50px;
+	background-color: blue;
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+
+p{
+	color: white;
+	font-weight: bold;
+}
+
+
+/* Démonstration 2 */
+
+.pex {
+	height: 50px;
+	background-color: green;
+	width: 25%;
+	float:left;
+	text-align: center;
+}
+.pex1 {
+	height: 50px;
+	background-color: red;
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+.pex2 {
+	height: 50px;
+	background-color: blue;
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+.pex3 {
+	height: 50px;
+	background-color: black;
+	width: 25%;
+	float: left;
+	text-align: center;
+}

@@ -1,0 +1,78 @@
+
+#mmiheader{
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#sign-foot{
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#chevronf{
+    position: relative;
+    text-align: center;
+    padding: 12px;
+    margin: 6px auto;
+    height: 5px;
+    width: 100%;
+    background-color: #102a37;
+}
+
+.col-md-4{
+    color: #1abc9c;
+    font-weight: bold;
+}
+
+tr td a{
+    color: black;
+}
+tr td a:hover{
+    color: #1abc9c;
+}
+tr td{
+    border-top: solid 1px #102a37;
+}
+
+#footcontainer{
+    padding-top: 10px;
+    background-color: #102a37;
+    height: 100px;
+    width: 100%;
+    position: relative;
+}
+
+#centre{
+    margin: auto;
+	width:800px;
+}
+
+@media screen and (max-width: 992px) {
+
+    #footcontainer{
+        padding-top: 10px;
+        background-color: #102a37;
+        height: 100px;
+        width: 100%;
+        margin-top: -5px;
+
+    }
+	#centre{width:98%;}
+}
+
+@media screen and (max-width: 420px) {
+
+    #footcontainer{
+        padding-top: 10px;
+        background-color: #102a37;
+        height: 100px;
+        width: 100%;
+        margin-top: -5px;
+
+    }
+    #centre{width:98%;}
+}
